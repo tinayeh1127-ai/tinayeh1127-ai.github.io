@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 516,
+    "left": 0,
+    "width": 696,
+    "height": 928,
+    "isRotated": true,
+    "originalWidth": 696,
+    "originalHeight": 1444
+  },
+  "imagePath": "image-targets/Microsoft 相片 2026_10_10 下午 06_27_35_luminance.png",
+  "metadata": null,
+  "name": "Microsoft 相片 2026_10_10 下午 06_27_35",
+  "resources": {
+    "originalImage": "Microsoft 相片 2026_10_10 下午 06_27_35_original.png",
+    "croppedImage": "Microsoft 相片 2026_10_10 下午 06_27_35_cropped.png",
+    "thumbnailImage": "Microsoft 相片 2026_10_10 下午 06_27_35_thumbnail.png",
+    "luminanceImage": "Microsoft 相片 2026_10_10 下午 06_27_35_luminance.png"
+  },
+  "created": 1791629080911,
+  "updated": 1791631145330
+}
