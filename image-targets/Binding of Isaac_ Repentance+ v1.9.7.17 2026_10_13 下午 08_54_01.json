@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 240,
+    "left": 0,
+    "width": 1080,
+    "height": 1440,
+    "isRotated": true,
+    "originalWidth": 1080,
+    "originalHeight": 1920
+  },
+  "imagePath": "image-targets/Binding of Isaac_ Repentance+ v1.9.7.17 2026_10_13 下午 08_54_01_luminance.png",
+  "metadata": null,
+  "name": "Binding of Isaac_ Repentance+ v1.9.7.17 2026_10_13 下午 08_54_01",
+  "resources": {
+    "originalImage": "Binding of Isaac_ Repentance+ v1.9.7.17 2026_10_13 下午 08_54_01_original.png",
+    "croppedImage": "Binding of Isaac_ Repentance+ v1.9.7.17 2026_10_13 下午 08_54_01_cropped.png",
+    "thumbnailImage": "Binding of Isaac_ Repentance+ v1.9.7.17 2026_10_13 下午 08_54_01_thumbnail.png",
+    "luminanceImage": "Binding of Isaac_ Repentance+ v1.9.7.17 2026_10_13 下午 08_54_01_luminance.png"
+  },
+  "created": 1792162569702,
+  "updated": 1792162569702
+}
