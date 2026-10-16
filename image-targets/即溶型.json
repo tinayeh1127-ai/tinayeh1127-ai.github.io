@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 200,
+    "left": 0,
+    "width": 6300,
+    "height": 8400,
+    "isRotated": false,
+    "originalWidth": 6300,
+    "originalHeight": 8800
+  },
+  "imagePath": "image-targets/即溶型_luminance.jpg",
+  "metadata": 1,
+  "name": "即溶型",
+  "resources": {
+    "originalImage": "即溶型_original.jpg",
+    "croppedImage": "即溶型_cropped.jpg",
+    "thumbnailImage": "即溶型_thumbnail.jpg",
+    "luminanceImage": "即溶型_luminance.jpg"
+  },
+  "created": 1792151166756,
+  "updated": 1792156980488
+}

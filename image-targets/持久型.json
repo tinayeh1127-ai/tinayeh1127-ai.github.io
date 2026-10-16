@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 200,
+    "left": 0,
+    "width": 6300,
+    "height": 8400,
+    "isRotated": false,
+    "originalWidth": 6300,
+    "originalHeight": 8800
+  },
+  "imagePath": "image-targets/持久型_luminance.jpg",
+  "metadata": null,
+  "name": "持久型",
+  "resources": {
+    "originalImage": "持久型_original.jpg",
+    "croppedImage": "持久型_cropped.jpg",
+    "thumbnailImage": "持久型_thumbnail.jpg",
+    "luminanceImage": "持久型_luminance.jpg"
+  },
+  "created": 1792151476745,
+  "updated": 1792151476745
+}

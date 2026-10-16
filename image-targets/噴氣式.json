@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 200,
+    "left": 0,
+    "width": 6300,
+    "height": 8400,
+    "isRotated": false,
+    "originalWidth": 6300,
+    "originalHeight": 8800
+  },
+  "imagePath": "image-targets/噴氣式_luminance.jpg",
+  "metadata": null,
+  "name": "噴氣式",
+  "resources": {
+    "originalImage": "噴氣式_original.jpg",
+    "croppedImage": "噴氣式_cropped.jpg",
+    "thumbnailImage": "噴氣式_thumbnail.jpg",
+    "luminanceImage": "噴氣式_luminance.jpg"
+  },
+  "created": 1792152730758,
+  "updated": 1792152730758
+}

@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 201,
+    "left": 0,
+    "width": 6300,
+    "height": 8400,
+    "isRotated": false,
+    "originalWidth": 6300,
+    "originalHeight": 8800
+  },
+  "imagePath": "image-targets/兩片裝_luminance.jpg",
+  "metadata": null,
+  "name": "兩片裝",
+  "resources": {
+    "originalImage": "兩片裝_original.jpg",
+    "croppedImage": "兩片裝_cropped.jpg",
+    "thumbnailImage": "兩片裝_thumbnail.jpg",
+    "luminanceImage": "兩片裝_luminance.jpg"
+  },
+  "created": 1792152376839,
+  "updated": 1792152509184
+}

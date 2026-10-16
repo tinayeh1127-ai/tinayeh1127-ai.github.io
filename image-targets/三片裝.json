@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 200,
+    "left": 0,
+    "width": 6300,
+    "height": 8400,
+    "isRotated": false,
+    "originalWidth": 6300,
+    "originalHeight": 8800
+  },
+  "imagePath": "image-targets/三片裝_luminance.jpg",
+  "metadata": null,
+  "name": "三片裝",
+  "resources": {
+    "originalImage": "三片裝_original.jpg",
+    "croppedImage": "三片裝_cropped.jpg",
+    "thumbnailImage": "三片裝_thumbnail.jpg",
+    "luminanceImage": "三片裝_luminance.jpg"
+  },
+  "created": 1792152691882,
+  "updated": 1792152691882
+}

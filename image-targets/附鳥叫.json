@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 200,
+    "left": 0,
+    "width": 6300,
+    "height": 8400,
+    "isRotated": false,
+    "originalWidth": 6300,
+    "originalHeight": 8800
+  },
+  "imagePath": "image-targets/附鳥叫_luminance.jpg",
+  "metadata": null,
+  "name": "附鳥叫",
+  "resources": {
+    "originalImage": "附鳥叫_original.jpg",
+    "croppedImage": "附鳥叫_cropped.jpg",
+    "thumbnailImage": "附鳥叫_thumbnail.jpg",
+    "luminanceImage": "附鳥叫_luminance.jpg"
+  },
+  "created": 1792152283660,
+  "updated": 1792152283660
+}
