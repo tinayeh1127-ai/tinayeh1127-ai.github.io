@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 1143,
+    "left": 2066,
+    "width": 2100,
+    "height": 2800,
+    "isRotated": false,
+    "originalWidth": 6300,
+    "originalHeight": 8800
+  },
+  "imagePath": "image-targets/Perfume-1_luminance.jpg",
+  "metadata": null,
+  "name": "Perfume-1",
+  "resources": {
+    "originalImage": "Perfume-1_original.jpg",
+    "croppedImage": "Perfume-1_cropped.jpg",
+    "thumbnailImage": "Perfume-1_thumbnail.jpg",
+    "luminanceImage": "Perfume-1_luminance.jpg"
+  },
+  "created": 1792327960875,
+  "updated": 1792330745420
+}

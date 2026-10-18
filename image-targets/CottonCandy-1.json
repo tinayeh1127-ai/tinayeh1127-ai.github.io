@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 777,
+    "left": 1668,
+    "width": 2930,
+    "height": 3907,
+    "isRotated": false,
+    "originalWidth": 6300,
+    "originalHeight": 8800
+  },
+  "imagePath": "image-targets/CottonCandy-1_luminance.jpg",
+  "metadata": null,
+  "name": "CottonCandy-1",
+  "resources": {
+    "originalImage": "CottonCandy-1_original.jpg",
+    "croppedImage": "CottonCandy-1_cropped.jpg",
+    "thumbnailImage": "CottonCandy-1_thumbnail.jpg",
+    "luminanceImage": "CottonCandy-1_luminance.jpg"
+  },
+  "created": 1792327816633,
+  "updated": 1792330546808
+}

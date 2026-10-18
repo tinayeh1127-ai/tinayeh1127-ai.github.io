@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 993,
+    "left": 1544,
+    "width": 3150,
+    "height": 4200,
+    "isRotated": false,
+    "originalWidth": 6300,
+    "originalHeight": 8800
+  },
+  "imagePath": "image-targets/Poem-1_luminance.jpg",
+  "metadata": null,
+  "name": "Poem-1",
+  "resources": {
+    "originalImage": "Poem-1_original.jpg",
+    "croppedImage": "Poem-1_cropped.jpg",
+    "thumbnailImage": "Poem-1_thumbnail.jpg",
+    "luminanceImage": "Poem-1_luminance.jpg"
+  },
+  "created": 1792328005304,
+  "updated": 1792330950370
+}
